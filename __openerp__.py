@@ -58,6 +58,7 @@ To apply:
     'author': 'Blanco Martín & Asociados',
     'depends': ['base_vat'],
     'website': 'http://blancomartin.cl',
+    'license': 'AGPL-3',
     'installable': True,
     'active': False,
 }
