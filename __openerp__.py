@@ -32,7 +32,7 @@
 ##############################################################################
 
 {
-    'name': 'Base VAT CL - To check Chilean VAT (RUT) number validity',
+    'name': 'Base VAT CL - To check Chilean VAT (RUT) number validity ** DEPRECATED',
     'version': '1.1',
     'category': 'Generic Modules/Base',
     'description': """
